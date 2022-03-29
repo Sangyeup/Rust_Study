@@ -1,4 +1,5 @@
-###### Rust_Study
-''' Rust
+# Rust_Study
+
+``` Rust
 println!("Hello, Rust!");
-'''
+```
